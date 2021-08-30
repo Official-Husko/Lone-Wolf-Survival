@@ -1,0 +1,9 @@
+{
+    "created":"UnixDateOfSavegameStart",
+    "lastPlayed":"UnixDateLastPlayed",
+    "inventory": {
+        "wood": "12",
+        "stone": "3",
+        "m9-beretta": "1"
+    }
+}

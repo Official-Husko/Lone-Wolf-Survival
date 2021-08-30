@@ -1,0 +1,51 @@
+===============================================<[ Project Lone Wolf Survival ]>===============================================
+
+A stylish 2d post-apocalyptic dungeon like survival game that features micro-management for your community, the world and the other factions
+
+===============================================<[ Insides ]>===============================================
+Electron with js and react
+
+All files load in the folders
+
+===============================================<[ File Structuring ]>===============================================
+Lone Wolf Survival/
+├─ Data/
+│  ├─ Profiles/
+│  │  ├─ Robert-7edc78adc6a2.json
+│  │  ├─ Micheal-2d4ad2f34e56.json
+│  ├─ Items/
+│  ├─ NPC/
+│  ├─ Vehicles/
+│  ├─ Events/
+│  ├─ Structures/
+├─ Savegames/
+│  ├─ new_save
+├─ Mods/
+│  ├─ More Resources/
+│  │  ├─ mod.json
+│  │  ├─ preview.png
+│  │  ├─ Data/
+│  │  │  ├─ Items/
+│  │  │  │  ├─ Resources.json
+├─ LoneWolfSurvival.exe
+├─ dx11.dll
+├─ dx12.dll
+
+===============================================<[ Roadmap ]>===============================================
+
+Alpha 0.1 Goal
+
+2 Resources (Wood, Stone)
+1 NPC (For Debug & Testing)
+1 Vehicle (For Debug & Testing)
+simple scavenge run for collecting resources (simple timer)
+Inventory System (Crude)
+Json system in place and running
+Profile Creation 
+a simple tutorial for the first few things (Just a text pop up with an arrow or circle and an X to close it after reading)
+
+Alpha 0.2 Goal
+
+15 New Resources
+Inventory Overhaul
+Different UI scenarios ((Background Images)Inventory = Storage, Scavenge = Gate)
