@@ -1,0 +1,14 @@
+{
+    "oak_log":{
+        "name":"Oak Log",
+        "type":"Resource",
+        "tags":"Crafting, Resources",
+        "weight":"770",
+        "worth":"1",
+        "art":{
+            "small":"oak_log_small.svg",
+            "medium":"oak_log_medium.svg",
+            "big":"oak_log_big.svg"
+        }
+    }
+}
